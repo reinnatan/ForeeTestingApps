@@ -1,13 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="ForeAppsTesting" />
-      </profile>
-    </annotationProcessing>
-  </component>
-</project>
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5f9ffc2a26462b0c02163aada982d265922279253249ac33477ff2193f507c4
+size 536
