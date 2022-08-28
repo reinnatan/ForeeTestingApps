@@ -33,4 +33,4 @@ ForeTestingApps
 
 ## Hasil Record Aplikasi
 Berikut merupakan record dari hasil testing applikasi foree yang diminta
-![a link](https://drive.google.com/file/d/1o7JXnw4TVNM4H20p2VvddoECDFNO_5Ox/view?usp=sharing)
+![result test](https://drive.google.com/file/d/1968QqWRfBMv10L5EIYpenLzPpznFVY7W/view?usp=sharing)
