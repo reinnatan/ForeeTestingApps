@@ -8,8 +8,8 @@ Software harus diinstall terlebih dahulu seperti menginstall
 Sebelum running script kita harus menjalankan
 - Appium server ![](screenshoot/AppiumServer.png)
   - Create Devices from Android Studio
-    - Click Dot dan pilih Virtual Devices Manager ![](screenshoot/AppiumServer.png)
-    - Create Devices di window Virtual Devices Manager ![](screenshoot/AndroidStudioDevices.png)
+    - Click Dot dan pilih Virtual Devices Manager ![](screenshoot/AndroidStudioDevices.png)
+    - Create Devices di window Virtual Devices Manager ![](screenshoot/CreateDevices.png)
     - Pilih Device yang ada google play-nya ![](screenshoot/DeviceGooglePlay.png)
     - Install Aplikasi Foree ![](screenshoot/InstallForee.png)
     - Jalankan Script ![](screenshoot/avd.png)
