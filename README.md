@@ -18,7 +18,11 @@ Sebelum running script kita harus menjalankan
     ```
     ![](screenshoot/avd.png)
    
-    - Ganti UUID script dengan device yang diinginkan dari perintah avd tadi ![](screenshoot/ChangeUUIDCode.png)
+    - Ganti UUID script dengan device yang diinginkan dari perintah avd tadi, pada contoh kali ini menggunakan device 
+    ```
+    emulator-5554
+    ```
+    - ![](screenshoot/ChangeUUIDCode.png)
     
 
 ## Running Script
