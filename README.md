@@ -32,5 +32,5 @@ ForeTestingApps
 ```
 
 ## Hasil Record Aplikasi
-Berikut merupakan record dari hasil testing applikasi foree yang diminta
+Berikut merupakan record dari hasil testing aplikasi foree yang diminta
 ![](screenshoot/FinalResult.gif)
