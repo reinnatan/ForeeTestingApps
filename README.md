@@ -33,4 +33,4 @@ ForeTestingApps
 
 ## Hasil Record Aplikasi
 Berikut merupakan record dari hasil testing applikasi foree yang diminta
-![](screenshoot/FinalResut.gif)
+![](screenshoot/FinalResult.gif)
