@@ -11,7 +11,7 @@ Sebelum running script kita harus menjalankan
     - Click Dot dan pilih Virtual Devices Manager ![](screenshoot/AndroidStudioDevices.png)
     - Create Devices di window Virtual Devices Manager ![](screenshoot/CreateDevices.png)
     - Pilih Device yang ada google play-nya ![](screenshoot/DeviceGooglePlay.png)
-    - Install Aplikasi Foree ![](screenshoot/InstallForee.png)
+    - Install Aplikasi Foree di simulator ![](screenshoot/InstallForee.png)
     - Jalankan Script ![](screenshoot/avd.png)
     ```bash
       avd devices -l untuk melihat device yang tersedia
