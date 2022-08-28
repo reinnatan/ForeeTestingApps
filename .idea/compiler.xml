@@ -9,5 +9,8 @@
         <module name="ForeAppsTesting" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ForeAppsTesting" target="8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

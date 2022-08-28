@@ -3,6 +3,8 @@ Software harus diinstall terlebih dahulu seperti menginstall
 - Install Android Studio
 - Install ADB
 - Install Appium Server
+- Editor IntellijIDEA/Eclipse
+
 
 # Pre Running Script
 Sebelum running script kita harus menjalankan
