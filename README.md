@@ -12,10 +12,12 @@ Sebelum running script kita harus menjalankan
     - Create Devices di window Virtual Devices Manager ![](screenshoot/CreateDevices.png)
     - Pilih Device yang ada google play-nya ![](screenshoot/DeviceGooglePlay.png)
     - Install Aplikasi Foree di simulator ![](screenshoot/InstallForee.png)
-    - Jalankan Script ![](screenshoot/avd.png)
+    - Jalankan Script
     ```bash
-      avd devices -l untuk melihat device yang tersedia
+    avd devices -l untuk melihat device yang tersedia
     ```
+    ![](screenshoot/avd.png)
+   
     - Ganti UUID script dengan device yang diinginkan dari perintah avd tadi ![](screenshoot/ChangeUUIDCode.png)
     
 
